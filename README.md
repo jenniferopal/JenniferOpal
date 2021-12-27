@@ -1,15 +1,15 @@
 <p align="center">
-    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width="200" height="200" src="https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt="My Banner which features details of what I do & where you can find me on social media.">
+    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width="1500" height="500" src="https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt="My Banner which features details of what I do & where you can find me on social media.">
     </a>
 </p>
 
-<h3 align="center">
-    Hi, I'm <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer">Jennifer Opal</a>.
-</h3>
-
 <h2 align="center">
-    I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Keynote Speaker & Technologist.
+    Hi, I'm <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer">Jennifer Opal</a>.
 </h2>
+
+<h3 align="center">
+    I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Keynote Speaker & Technologist.
+</h3>
 
 Awards (From Most Recent):
     Most Influential Women In Tech UK, ComputerWeekly.com (Shortlist, 2021)
@@ -94,4 +94,5 @@ Logging: ELK, InfluxDB, Grafana
 <a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Jennifer Opal | Instagram" width="21px"/></a>
 <a href="https://twitter.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Jennifer Opal | Twitter" width="21px"/></a>
+<a href="http://jenniferopal.co/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
 </br>
