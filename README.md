@@ -1,5 +1,6 @@
-<p align=”center”>
-    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt=”My Banner which features details of what I do & where you can find me on social media.”></a>
+<p align="center">
+    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width="200" height="200" src="https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt="My Banner which features details of what I do & where you can find me on social media.">
+    </a>
 </p>
 
 <h3 align="center">
@@ -10,10 +11,7 @@
     I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Keynote Speaker & Technologist.
 </h2>
 
-<h4 align="center">
-<b>
-    Awards (From Most Recent):
-</b>
+Awards (From Most Recent):
     Most Influential Women In Tech UK, ComputerWeekly.com (Shortlist, 2021)
 
     CDIS (Congolese Diaspora Impact Summit) Rising Leaders (Named, 2020)
@@ -25,8 +23,6 @@
     50 of the Most Influential Black Voices In Tech UK by TechNation (Named, 2019)
     Most Influential Women In Tech UK by ComputerWeekly.com, Level39 and Makers Academy (Named, 2019)
     UK's first Women in Software Powerlist by Makers Academy & ComputerWeekly.com (Shortlisted, 2019)
-</h4>
-
 
 
 
@@ -92,3 +88,10 @@ CI/CD: Github, Jenkins, Spinnaker
 Logging: ELK, InfluxDB, Grafana
 
 -->
+
+### Find me here:
+
+<a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/instagram.svg" alt="Jennifer Opal | Instagram" width="21px"/></a>
+<a href="https://twitter.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Jennifer Opal | Twitter" width="21px"/></a>
+</br>
