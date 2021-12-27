@@ -1,10 +1,35 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt=”my banner”>
+    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width=”200" height=”200" src=”https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt=”My Banner which features details of what I do & where you can find me on social media.”></a>
 </p>
 
-### Hi, I'm <src="http://jenniferopal.co/">Jennifer Opal 👋</src>
+<h3 align="center">
+    Hi, I'm <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer">Jennifer Opal</a>.
+</h3>
 
-## I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Speaker & Technologist.
+<h2 align="center">
+    I'm a DevOps Engineer, Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger, Keynote Speaker & Technologist.
+</h2>
+
+<h4 align="center">
+<b>
+    Awards (From Most Recent):
+</b>
+    Most Influential Women In Tech UK, ComputerWeekly.com (Shortlist, 2021)
+
+    CDIS (Congolese Diaspora Impact Summit) Rising Leaders (Named, 2020)
+    WeAreTechWomen Tech Women 100 Award (Winner, 2020)
+    Rising Technologist Award at the Booking.com Technology Playmaker Awards (Nominated, 2020)
+    Most Influential Women In Tech UK, ComputerWeekly.com and Makers Academy (Shortlist, 2020)
+    Rising Star Award at the Black Tech Achievement Awards (Winner, 2020)
+
+    50 of the Most Influential Black Voices In Tech UK by TechNation (Named, 2019)
+    Most Influential Women In Tech UK by ComputerWeekly.com, Level39 and Makers Academy (Named, 2019)
+    UK's first Women in Software Powerlist by Makers Academy & ComputerWeekly.com (Shortlisted, 2019)
+</h4>
+
+
+
+
 
 # This is my current Tech Stack in my current role: 
 
@@ -48,9 +73,6 @@
 In my previous roles, I have worked with: 
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-
-<!--
-**jenniferopal/JenniferOpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
