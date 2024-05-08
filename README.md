@@ -1,10 +1,6 @@
-<p align="center">
-    <a href="http://jenniferopal.co/" target="_blank" rel="noreferrer"><img width="1500" height="300" src="https://user-images.githubusercontent.com/30987803/147163523-ea3fbcc4-33de-4d72-85be-1a8a1111ac0c.png" alt="My Banner which features details of what I do & where you can find me on social media.">
-    </a>
-</p>
 
 <h3 align="center">
-    Hi, I'm <a href="http://jenniferopal.com/" target="_blank" rel="noreferrer">Jennifer Opal</a>.👋🏾(she/her)
+    Hi, I'm <a href="http://jenniferopal.com/" target="_blank" rel="noreferrer">Jennifer Opal</a>. 👋🏾(she/her)
 </h3>
 
 <h4 align="center">
