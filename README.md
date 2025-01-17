@@ -4,13 +4,12 @@
 </h3>
 
 <h4 align="center">
-    I'm a DevOps Engineer with past experience in Data Engineering & DevRel. I'm also a Neurodiversity & Inclusion Advocate, Multi-Award Winning Blogger & Keynote Speaker.✨
+    I'm a Data Engineer with past experience in DevOps Engineering. I'm also a Multi Awarding Winning Neurodiversity Advocate, & Keynote Speaker.✨
 </h4>
 
 ## My Technical Skills: 
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=ffdd54)
-![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=23CC342D)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=Shell_Script&color=23121011)
 ![Scala](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&color=23DC322F)
 
@@ -18,19 +17,13 @@
 ![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&color=2274A5)
 
 ![Puppet](https://img.shields.io/badge/Config-Puppet-informational?style=flat&logo=Puppet&color=FC440F)
-![Terraform](https://img.shields.io/badge/Config-Terraform-informational?style=flat&logo=Terraform&color=235835CC)
 
 ![Jenkins](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=Jenkins&color=C47AC0)
-![Spinnaker](https://img.shields.io/badge/CICD-Spinnaker-informational?style=flat&logo=Spinnaker&color=E39EC1)
 
 ![ELK](https://img.shields.io/badge/Logging-ELK-informational?style=flat&logo=ELK&color=DEBAC0)
 ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=Grafana&color=81F4E1)
-![InfluxDB](https://img.shields.io/badge/Logging-InfluxDB-informational?style=flat&logo=InfluxDB&color=56CBF9)
 
 ![Git](https://img.shields.io/badge/Version-Git-informational?style=flat&logo=Git&color=FF729F)
-
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&color=F4E285)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=5B8E7D)
 
 ![Hadoop](https://img.shields.io/badge/Data-Hadoop-informational?style=flat&logo=Hadoop&color=E7DFC6)
 ![Spark](https://img.shields.io/badge/Data-Spark-informational?style=flat&logo=Spark&color=6DD3CE)
@@ -59,14 +52,17 @@
 - Most Influential Women In Tech UK by ComputerWeekly.com, Level39 and Makers Academy (Named, 2019)
 - UK's first Women in Software Powerlist by Makers Academy & ComputerWeekly.com (Shortlisted, 2019)
 
-## I’m currently learning ...
+## I’m currently ...
 
-- BSc Computer Science Degree at Goldsmith's, University of London.
-- Google IT Support Certificate 🤖
-- Microsoft Azure AI Fundamentals 📊
+- Studying **BSc Business & Strategic Management Degree** at The Open University. I graduate in 2025!
+- **Building an app** for a Machine Learning model that can help predict and prevent sensory overload for autistic people and ADHDers. 
+- Preparing to start my **Masters of Science in People Centred Artificial Intelligence** in September 2025."
 
 ### How To Find Me:
 
 <a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/_jenniferopal"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/twitter.svg" alt="Jennifer Opal | Twitter" width="21px"/></a>
+
 <a href="http://jenniferopal.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
+
+<a href="http://databutmakeithuman.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Data But Make It Human | Blog & Portfolio Focused on AI, Data and ADHD" width="21px"/></a>
+
