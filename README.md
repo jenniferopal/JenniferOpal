@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-    I'm a Data Engineer with past experience in DevOps Engineering. I'm also a Multi Awarding Winning Neurodiversity Advocate, & Keynote Speaker.✨
+    I'm an Engineer with past experience in DevOps, Data and DevRel Engineering. I'm also a Multi Awarding Winning Neurodiversity Advocate, & Keynote Speaker.✨
 </h4>
 
 ## My Technical Skills: 
@@ -32,7 +32,7 @@
 
 ## Get To Know Me:
 
-- I'm autistic with dyslexia, dyspraxia & ADHD. I'm unapologetic about being neurodivergent! 🧠
+- I'm unapologetic about being neurodivergent! 🧠
 - I'm Congolese! 🇨🇩
 - I'm a London Girl, born & raised but based in Belfast, Northern Ireland. 🇬🇧
 - I sit on the Co-Production Board of a charity, "Neurodiversity In Business". ⚖️
