@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-    I'm an Engineer with past experience in DevOps, Data and DevRel Engineering. I'm also a Multi Awarding Winning Neurodiversity Advocate, & Keynote Speaker.✨
+    I'm an Engineer with experience in DevOps, Data and DevRel Engineering. I'm also a Multi Awarding Winning Neurodiversity Advocate & Keynote Speaker.✨
 </h4>
 
 ## My Technical Skills: 
@@ -32,37 +32,21 @@
 
 ## Get To Know Me:
 
-- I'm unapologetic about being neurodivergent! 🧠
-- I'm Congolese! 🇨🇩
-- I'm a London Girl, born & raised but based in Belfast, Northern Ireland. 🇬🇧
-- I sit on the Co-Production Board of a charity, "Neurodiversity In Business". ⚖️
-- I speak English, Lingala and French (kind of...). 🎙
-- I play the piano & taught myself from the age of 12. 🎹
-- I've spoken at Bloomberg, Google, BT & Code First: Girls. 🧡
+- Learn more about me at:
 
-## Awards (From Most Recent)
+<a href="http://jenniferopal.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
 
-- Most Influential Women In Tech UK, ComputerWeekly.com (Shortlist, 2021)
-- CDIS (Congolese Diaspora Impact Summit) Rising Leaders (Named, 2020)
-- WeAreTechWomen Tech Women 100 Award (Winner, 2020)
-- Rising Technologist Award at the Booking.com Technology Playmaker Awards (Nominated, 2020)
-- Most Influential Women In Tech UK, ComputerWeekly.com and Makers Academy (Shortlist, 2020)
-- Rising Star Award at the Black Tech Achievement Awards (Winner, 2020)
-- 50 of the Most Influential Black Voices In Tech UK by TechNation (Named, 2019)
-- Most Influential Women In Tech UK by ComputerWeekly.com, Level39 and Makers Academy (Named, 2019)
-- UK's first Women in Software Powerlist by Makers Academy & ComputerWeekly.com (Shortlisted, 2019)
+## What am I doing currently?: 
 
-## I’m currently ...
-
-- Studying **BSc Business & Strategic Management Degree** at The Open University. I graduate in 2025!
-- **Building an app** for a Machine Learning model that can help predict and prevent sensory overload for autistic people and ADHDers. 
+- Studying for my **BSc Business & Strategic Management Degree** at The Open University. I graduate in 2025!
+  
+- **Building an app** for a Machine Learning model that can help predict and prevent sensory overload for autistic people and ADHDers.
+  
 - Preparing to start my **Masters of Science in People Centred Artificial Intelligence** in September 2025."
 
 ### How To Find Me:
 
 <a href="https://www.linkedin.com/in/jenniferopal/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/linkedin.svg" alt="Jennifer Opal | LinkedIn" width="21px"/></a>
-
-<a href="http://jenniferopal.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
 
 <a href="http://databutmakeithuman.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Data But Make It Human | Blog & Portfolio Focused on AI, Data and ADHD" width="21px"/></a>
 
