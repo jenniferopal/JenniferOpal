@@ -30,19 +30,15 @@
 ![Hive](https://img.shields.io/badge/Data-Hive-informational?style=flat&logo=Hive&color=F7A278)
 ![Splunk](https://img.shields.io/badge/Data-Splunk-informational?style=flat&logo=Splunk&color=351E29)
 
-## Get To Know Me:
-
-- Learn more about me at:
-
-<a href="http://jenniferopal.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
-
 ## What am I doing currently?: 
 
 - Studying for my **BSc Business & Strategic Management Degree** at The Open University. I graduate in 2025!
   
 - **Building an app** for a Machine Learning model that can help predict and prevent sensory overload for autistic people and ADHDers.
   
-- Preparing to start my **Masters of Science in People Centred Artificial Intelligence** in September 2025."
+- Preparing to start my **Masters of Science in People Centred Artificial Intelligence** in September 2025.
+
+- Building projects on **GitHub**. Check out my pinned projects!
 
 ### How To Find Me:
 
@@ -50,3 +46,4 @@
 
 <a href="http://databutmakeithuman.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Data But Make It Human | Blog & Portfolio Focused on AI, Data and ADHD" width="21px"/></a>
 
+<a href="http://jenniferopal.com/"><img align="left" src="https://raw.githubusercontent.com/jenniferopal/jenniferopal/main/images/internet.svg" alt="Jennifer Opal | Official Blog and Website" width="21px"/></a>
