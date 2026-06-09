@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-    I'm a Senior Platform Engineer, Founder of < a href="https://ssensimm.io/" target="_blank" rel="norefferer">ssensimm</a> and an incoming MSc student in Artificial Intelligence at Queens University Belfast in September 2026. I'm also a Multi Awarding Winning Neurodiversity Advocate & Keynote Speaker.✨
+    I'm a Senior Platform Engineer, Founder of <a href="https://ssensimm.io/" target="_blank" rel="norefferer">ssensimm</a> and an incoming MSc student in Artificial Intelligence at Queens University Belfast in September 2026. I'm also a Multi Awarding Winning Neurodiversity Advocate & Keynote Speaker.✨
 </h4>
 
 ## My Technical Skills: 
